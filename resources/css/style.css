@@ -1,10 +1,10 @@
 *{
 font-family: helvetica;
-text-align: center;
 }
 
-#home{
+.head{
   color: white;
+  text-align: center;
   background: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png") no-repeat center;
 }
 
@@ -40,4 +40,18 @@ color: white;
 #work{
   color: white;
   background: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png") no-repeat center;
+}
+
+.body{
+  text-align: center;
+}
+
+.foot {
+  text-align:left;
+  color: white;
+  background-color: dimgray;
+}
+
+.span{
+font-size: 11px;
 }
